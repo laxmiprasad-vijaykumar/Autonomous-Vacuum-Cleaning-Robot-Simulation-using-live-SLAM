@@ -1,0 +1,2 @@
+# Autonomous-Vacuum-Cleaning-Robot-Simulation-using-live-SLAM
+This project features an autonomous TurtleBot3 that builds maps with Live SLAM, detects obstacles using LIDAR, and follows a Full Coverage Path Planning (CCPP) algorithm for systematic cleaning. If a cell is unreachable, it falls back to A* search and makes intelligent navigation decisions in real time. It also has custom built launch file.
